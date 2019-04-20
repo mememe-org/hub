@@ -1,0 +1,31 @@
+size: 600x710
+background:
+  image: https://i.imgur.com/jUOj2YX.png
+  position:
+    x: 0
+    y: 0
+    z: 0
+top text:
+  text: top text
+  textAlign: center
+  font: bold 60px Impact
+  color: white
+  stroke:
+    width: 5
+    color: black
+  position:
+    x: 300
+    y: 80
+    z: 1
+bottom text:
+  text: bottom text
+  textAlign: center
+  font: bold 60px Impact
+  color: white
+  stroke:
+    width: 5
+    color: black
+  position:
+    x: 300
+    y: 690
+    z: 1

@@ -1,0 +1,71 @@
+size: 800x800
+grid:
+  image: https://i.imgur.com/jX0SMN4.png
+  position:
+    x: 0
+    y: 0
+    z: 0
+top left image:
+  size: 400x400
+  position:
+    x: 0
+    y: 0
+    z: 1
+top right image:
+  size: 400x400
+  position:
+    x: 400
+    y: 0
+    z: 1
+bottom left image:
+  size: 400x400
+  position:
+    x: 0
+    y: 405
+    z: 1
+bottom right image:
+  size: 400x400
+  position:
+    x: 400
+    y: 405
+    z: 1
+top left text:
+  textAlign: center
+  font: 30px Arial
+  color: black
+  position: 
+    x: 200
+    y: 200
+    z: 1
+  stroke:
+    width: 0
+top right text:
+  textAlign: center
+  font: 30px Arial
+  color: black
+  position: 
+    x: 600
+    y: 200
+    z: 1
+  stroke:
+    width: 0
+bottom left text:
+  textAlign: center
+  font: 30px Arial
+  color: black
+  position: 
+    x: 200
+    y: 600
+    z: 1
+  stroke:
+    width: 0
+bottom right text:
+  textAlign: center
+  font: 30px Arial
+  color: black
+  position: 
+    x: 600
+    y: 600
+    z: 1
+  stroke:
+    width: 0
